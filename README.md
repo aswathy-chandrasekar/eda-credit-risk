@@ -30,14 +30,10 @@ This project performs a complete exploratory data analysis (EDA) on a credit ris
 
 
 ## Outputs
-Processed datasets saved to `/outputs`:
+Processed datasets saved to `/data`:
 - X_train_processed.csv, X_test_processed.csv
 - y_train.csv, y_test.csv
 
-## How to Run
-1. Clone the repo
-2. Install dependencies
-3. Open `notebooks/credit-risk-eda.ipynb` and run all cells
-
 ## Tech Stack
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
